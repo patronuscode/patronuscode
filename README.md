@@ -52,7 +52,7 @@ print(f"Wit beyond measure is man’s greatest treasure. - {name}")
 
 ## ⚡ #30DAYSOFPATRONUS 
 
-`Build Harry Potter projects and solve code challenges for 30 days to cast your Patronus!`
+Build Harry Potter projects and solve code challenges for 30 days to cast your Patronus!
 
 <p>
   <img width="200" alt="Stay-Connected" align="left" src="https://user-images.githubusercontent.com/59752495/124667961-2a308300-de7e-11eb-8e34-2bd66fe47262.png">
@@ -68,6 +68,9 @@ print(f"Wit beyond measure is man’s greatest treasure. - {name}")
 
 💬 **Spread The Word:** **[Click to Tweet](https://clicktotweet.com/95PAc)**
 
+<div align="center">
+       <p><strong> “Expecto Patronum!” - Harry Potter </strong></p>
+</div>
 
 ----
 

@@ -54,9 +54,20 @@ print(f"Wit beyond measure is man’s greatest treasure. - {name}")
 
 `Build Harry Potter projects and solve code challenges for 30 days to cast your Patronus!`
 
-🌐 Website: **[30DaysOfPatronus.com](https://30daysofpatronus.com/)**
+<p>
+  <img width="200" alt="Stay-Connected" align="left" src="https://user-images.githubusercontent.com/59752495/124667961-2a308300-de7e-11eb-8e34-2bd66fe47262.png">
+</p>
 
-🐦 Twitter: **[@30DaysPatronus](https://twitter.com/30DaysPatronus)**
+🌐 **Website:** **[30DaysOfPatronus.com](https://30daysofpatronus.com/)**
+
+🐦 **Twitter:** **[@30DaysPatronus](https://twitter.com/30DaysPatronus)**
+
+😺 **GitHub:** **[Challenge Instructions](https://github.com/30DaysOfPatronus/Getting-Started)**
+
+🧹 **Discord:** **[Join The Community](https://discord.gg/QfDwGHCpQM)**
+
+💬 **Spread The Word:** **[Click to Tweet](https://clicktotweet.com/95PAc)**
+
 
 ----
 
@@ -99,7 +110,7 @@ print(f"Wit beyond measure is man’s greatest treasure. - {name}")
 ----
 
 <h2>🔮 BLACK GIRL MAGIC</h2>
-  
+
 <p>
   <img width="200" alt="Stay-Connected" align="left" src="https://github.com/patronuscode/patronuscode/blob/main/stay-connected.png">
 </p>

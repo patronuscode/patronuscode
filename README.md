@@ -50,7 +50,7 @@ print(f"Wit beyond measure is man’s greatest treasure. - {name}")
 
 ----
 
-## #30DaysOfPatronus Code Challenge
+## ⚡ #30DAYSOFPATRONUS 
 
 `Build Harry Potter projects and solve code challenges for 30 days to cast your Patronus!`
 

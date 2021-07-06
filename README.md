@@ -68,7 +68,7 @@ Build Harry Potter projects and solve code challenges for 30 days to cast your P
 
 💬 **Spread The Word:** **[Click to Tweet](https://clicktotweet.com/95PAc)**
 
-<div align="center">
+<div align="left">
        <p><strong> “Expecto Patronum!” - Harry Potter </strong></p>
 </div>
 
